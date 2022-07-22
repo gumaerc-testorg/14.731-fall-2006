@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, requirements, and the schedule of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c042e33d-006b-4391-1d62-413693d0c147
 ---
@@ -21,7 +25,7 @@ We will endeavor to teach you about three things in the course:
 Course Requirements
 -------------------
 
-The assigned reading should be completed before the date noted on the syllabus. Class discussion will be more productive and enjoyable if you have done the reading. There will be a short final exam in the last scheduled class period and a term paper that is due at the end of the semester. Additional details about the paper can be found in the [assignments]({{< baseurl >}}/pages/assignments) section.
+The assigned reading should be completed before the date noted on the syllabus. Class discussion will be more productive and enjoyable if you have done the reading. There will be a short final exam in the last scheduled class period and a term paper that is due at the end of the semester. Additional details about the paper can be found in the {{% resource_link 024a3520-4364-0daf-be23-91d0acd5884a "assignments" %}} section.
 
 The term paper is the most important part of the written requirement for this subject. Extensions will be given only for unanticipated events. Late papers will receive lowered grades on a gradient that makes passing this course problematical with a paper that is more than a few days late. Plan accordingly.
 

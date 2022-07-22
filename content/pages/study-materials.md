@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on finding primary sources and machine
+  readable data.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: b29c6e94-28d7-1e7f-f792-8d9d138c050f
 ---
@@ -87,7 +91,7 @@ Kuznets, S. S. 1966. _Capital in the American Economy: Its Formation and Financi
 
 American Philosophical Society. _Population Redistribution and Economic Growth, United States, 1870-1950: Methodological Considerations and Reference Tables_. Philadelphia, PA: The Society, 1957.
 
-Levy-Leboyer, Maurice et Bourguinon, Franois. 1985. _L'économie française au XIXe siècle. Analyse macro-économique_. Paris: Economica, 1985. (Also available in English.)
+Levy-Leboyer, Maurice et Bourguinon, Franois. 1985. _L'économie française au XIX{{< sup "e" >}} siècle. Analyse macro-économique_. Paris: Economica, 1985. (Also available in English.)
 
 Marchand O. et C. Thelot. 1991. _Deux Siècles de travail en France, 1800-2000_. Paris: Nathan, 1997. ISBN: 209190435X.
 
