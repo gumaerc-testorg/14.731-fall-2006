@@ -31,7 +31,7 @@ Available ICPSR data:
 9. Arrests, strikes, and violent activity in France and Britain.
 10. Aggregate statistics for Europe.
 
-Data archives similar to ICPSR exist in other countries as well. See the [Council of European Social Science Data Archives](http://www.nsd.uib.no/Cessda/). [The History Data Service](http://hds.essex.ac.uk/), part of the Archives at the University of Essex has a particularly rich collection of historical data.
+Data archives similar to ICPSR exist in other countries as well. See the [Council of European Social Science Data Archives](https://mdl.library.utoronto.ca/collections/numeric-data/microdata/council-european-social-science-data-archives-cessda). [The History Data Service](http://hds.essex.ac.uk/), part of the Archives at the University of Essex has a particularly rich collection of historical data.
 
 Other data:
 
@@ -67,7 +67,7 @@ Historical Published U.S. Census Information: [Historical Census Browser](http:/
 
 Digitized U.S. Statistical Yearbooks: [Statistical Abstracts](http://www.census.gov/library/publications/time-series/statistical_abstracts.html).
 
-Digitized U.S. Census Volumes (Incomplete): [Census of Population and Housing](https://www.census.gov/prod/www/decennial.html).
+Digitized U.S. Census Volumes (Incomplete): [Census of Population and Housing](https://www.census.gov/programs-surveys/decennial-census.html).
 
 [STAT-USA](https://www.loc.gov/item/98801466/), [NIPA](https://apps.bea.gov/iTable/index_nipa.cfm) numbers.
 
