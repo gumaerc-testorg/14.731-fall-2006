@@ -16,7 +16,7 @@ Note that finding primary sources is easiest for the United States. You can find
 
 Hardly any non-U.S. data are available. Most of the U.S. data date from the end of the nineteenth century onwards.
 
-Most publicly available data are stored with ICPSR. To browse their collection, {{% resource_link "0b6f7c5f-9fb4-49e0-9f96-bd05fee5cd2e" "Inter-University Consortium for Political and Social Research" %}}.
+Most publicly available data are stored with ICPSR. To browse their collection, [Inter-University Consortium for Political and Social Research](http://www.icpsr.umich.edu/).
 
 Available ICPSR data:
 
@@ -31,18 +31,18 @@ Available ICPSR data:
 9. Arrests, strikes, and violent activity in France and Britain.
 10. Aggregate statistics for Europe.
 
-Data archives similar to ICPSR exist in other countries as well. See the {{% resource_link "e1f8cba1-9c2b-4ccf-a76a-e426303baf25" "Council of European Social Science Data Archives" %}}. {{% resource_link "a1f14ac2-6a2f-4327-9aff-d7c621117d3f" "The History Data Service" %}}, part of the Archives at the University of Essex has a particularly rich collection of historical data.
+Data archives similar to ICPSR exist in other countries as well. See the [Council of European Social Science Data Archives](https://mdl.library.utoronto.ca/collections/numeric-data/microdata/council-european-social-science-data-archives-cessda). [The History Data Service](http://hds.essex.ac.uk/), part of the Archives at the University of Essex has a particularly rich collection of historical data.
 
 Other data:
 
-1. Census micro data (1850, 1860, 1870, 1880, 1900-1920, 1940-2000) are available from {{% resource_link "23beee92-4f23-49ba-b9b3-63420e367628" "Minnesota Population Center, University of Minnesota" %}}. The entire 1880 U.S. and 1881 Canadian censuses are also available from {{% resource_link "4be85733-daf9-44d6-a0fe-9f7f5280b5aa" "North Atlantic Population Project" %}}.
-2. {{% resource_link "12bfe8d4-ca87-4f63-b1fd-e44c91367260" "Economic History Services" %}}, directly downloadable or an author contact - collection includes Europe and ranges from time series data to various micro datasets such as U.S. surveys of workers.
-3. {{% resource_link "8713232a-a6f6-4469-b15f-5287b905daeb" "NBER Reporter" %}}, U.S. micro data and world macroeconomic data.
-4. {{% resource_link "5f1bd616-35a0-4a23-9604-f6519cfca0fd" "University of Chicago" %}}, Union Armyveterans and assorted public health datasets.
-5. {{% resource_link "6e3b439e-708b-492c-b632-773f177fe9e6" "The Department of Demography at the University of California, Berkeley" %}}, aggregate vital statistics data for various countries and Prussian (1875-1914) and Croatian (1700-1900) micro data on baptisms, marriages, and burials.
-6. Joseph Ferrie's census linked U.S. data and 1851 British data, {{% resource_link "fe0e6830-be30-42bf-917f-5d9daf15a6e3" "Department of Economics Joseph P. Ferrie" %}}.
-7. Jeremy Atack's U.S. census of manufacturing data, {{% resource_link "c58ef2fd-3c66-45b6-b53b-b4c0ff5d4d8b" "Economics Faculty Jeremy Atack" %}}.
-8. Gregory Clark's early UK data on charities, parishes, and wage, rents, and other time-series, {{% resource_link "b303d07b-1638-4ade-93c5-9d3189446593" "Institute of Governmental Affairs UCDAVIS" %}}.
+1. Census micro data (1850, 1860, 1870, 1880, 1900-1920, 1940-2000) are available from [Minnesota Population Center, University of Minnesota](https://pop.umn.edu/). The entire 1880 U.S. and 1881 Canadian censuses are also available from [North Atlantic Population Project](http://www.nappdata.org/).
+2. [Economic History Services](http://eh.net/), directly downloadable or an author contact - collection includes Europe and ranges from time series data to various micro datasets such as U.S. surveys of workers.
+3. [NBER Reporter](http://www.nber.org/), U.S. micro data and world macroeconomic data.
+4. [University of Chicago](http://www.uchicago.edu/), Union Armyveterans and assorted public health datasets.
+5. [The Department of Demography at the University of California, Berkeley](http://www.demog.berkeley.edu/), aggregate vital statistics data for various countries and Prussian (1875-1914) and Croatian (1700-1900) micro data on baptisms, marriages, and burials.
+6. Joseph Ferrie's census linked U.S. data and 1851 British data, [Department of Economics Joseph P. Ferrie](https://economics.northwestern.edu/people/directory/joseph-ferrie.html).
+7. Jeremy Atack's U.S. census of manufacturing data, [Economics Faculty Jeremy Atack](http://as.vanderbilt.edu/econ/bio/jeremy-atack).
+8. Gregory Clark's early UK data on charities, parishes, and wage, rents, and other time-series, [Institute of Governmental Affairs UCDAVIS](http://www.econ.ucdavis.edu/faculty/gclark/data.html).
 9. Adriana Lleras-Muney's (Princeton University) compulsory U.S. child attendance and labor laws and state characteristics.
 
 Other data can be obtained by directly contacting individuals.
@@ -63,15 +63,15 @@ Mitchell, B. R. *British Historical Statistics*. Cambridge, UK: Cambridge Univer
 
 Other sources you might find useful are:
 
-Historical Published U.S. Census Information: {{% resource_link "f398aa6a-5b32-4c6c-968d-110b70f66955" "Historical Census Browser" %}}.
+Historical Published U.S. Census Information: [Historical Census Browser](http://mapserver.lib.virginia.edu/).
 
-Digitized U.S. Statistical Yearbooks: {{% resource_link "c00d35f4-f1be-4b66-8643-480a0f3da24c" "Statistical Abstracts" %}}.
+Digitized U.S. Statistical Yearbooks: [Statistical Abstracts](http://www.census.gov/library/publications/time-series/statistical_abstracts.html).
 
-Digitized U.S. Census Volumes (Incomplete): {{% resource_link "4a1508c0-987b-4f55-959b-a81155ac8735" "Census of Population and Housing" %}}.
+Digitized U.S. Census Volumes (Incomplete): [Census of Population and Housing](https://www.census.gov/programs-surveys/decennial-census.html).
 
-{{% resource_link "fdfa751d-a125-49d4-98dd-b5230d7b29ea" "STAT-USA" %}}, {{% resource_link "9c92e8e3-24f9-4ee1-8ae0-46bf28198bb7" "NIPA" %}} numbers.
+[STAT-USA](https://www.loc.gov/item/98801466/), [NIPA](https://apps.bea.gov/iTable/index_nipa.cfm) numbers.
 
-BLS CPI Series: {{% resource_link "21f03eb7-ad89-45ab-9473-8ecbbb27e52d" "Bureau of Labor Statistics" %}}.
+BLS CPI Series: [Bureau of Labor Statistics](http://www.bls.gov/).
 
 Board of Governors of the Federal Reserve System. *Banking and Monetary Statistics*. Washington, DC: Board of Governors of the Federal Reserve System, 1943.
 
